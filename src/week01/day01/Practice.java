@@ -1,7 +1,8 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+package week01.day01;
 import java.util.Arrays;
-public class Main{
+public class Practice{
 
     public static void main (String[] args){
         String name = "Nikita";
