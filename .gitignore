@@ -4,21 +4,6 @@ out/
 !**/src/test/**/out/
 .kotlin
 
-# IntelliJ IDEA
-.idea/
-
-# Compiled class files
-*.class
-
-# IntelliJ module files
-*.iml
-
-# Build directories
-out/
-
-# Logs
-*.log
-target/
 ### Eclipse ###
 .apt_generated
 .classpath

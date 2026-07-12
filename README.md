@@ -32,5 +32,11 @@ Backend Software Engineer / Cloud Engineer
 
 ### Week 1
 - [x] Day 1 – Java Fundamentals
-- [x] LeetCode 1929 – Concatenation of Array
-- [x] LeetCode 1480 – Running Sum of 1D Array
+- -[x] LeetCode 1929 – Concatenation of Array
+- -[x] LeetCode 1480 – Running Sum of 1D Array
+- [x] Day 2 – Java Fundamentals
+- -[x] LeetCode 1929 – Concatenation of Array
+- -[x] LeetCode 1470 – Shuffle the Array
+- [x] Day 3 – Java Fundamentals
+- -[x] LeetCode 1920 — Build Array from Permutation
+- -[x] LeetCode 1480 – Running Sum of 1D Array
